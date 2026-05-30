@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+}
+
+.auth-card {
+    max-width: 420px;
+    margin: 5vh auto 0;
+}
+
+.table thead th {
+    white-space: nowrap;
+}
+
+.low-stock {
+    color: #b02a37;
+    font-weight: 600;
+}
